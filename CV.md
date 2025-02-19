@@ -22,15 +22,14 @@ subtitle: Download or view my latest CV.
 <br>
 
 
-<div style="text-align: center; margin-bottom: 20px;">
-
-# Sayed Gamal  
-
-
-Cairo, Egypt | 📞 +201093521404 | ✉️ [sayedgamall@outlook.com](mailto:sayedgamall@outlook.com)  
-🔗 [LinkedIn](https://linkedin.com/in/sayed-gamall) | 🖥️ [GitHub](https://github.com/sayedgamal99)  
-
-
+<div style="text-align: center; margin-bottom: 20px; font-family: Arial, sans-serif;">
+    <h1 style="font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">Sayed Gamal</h1>
+    <div style="line-height: 1.6; margin-bottom: 10px;">
+        Cairo, Egypt | 📞 +201093521404 | ✉️ <a href="mailto:sayedgamall@outlook.com" style="color: #0066cc; text-decoration: none;">sayedgamall@outlook.com</a>
+    </div>
+    <div style="line-height: 1.6;">
+        🔗 <a href="https://linkedin.com/in/sayed-gamall" style="color: #0066cc; text-decoration: none;">LinkedIn</a> | 🖥️ <a href="https://github.com/sayedgamal99" style="color: #0066cc; text-decoration: none;">GitHub</a>
+    </div>
 </div>
 
 <br>
