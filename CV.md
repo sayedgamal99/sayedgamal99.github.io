@@ -15,7 +15,11 @@ subtitle: Download or view my latest CV.
   </a>
 </div>
 
+---
 
+<br>
+<br>
+<br>
 
 
 <div style="text-align: center; margin-bottom: 20px;">
@@ -29,6 +33,8 @@ Cairo, Egypt | 📞 +201093521404 | ✉️ [sayedgamall@outlook.com](mailto:saye
 
 </div>
 
+<br>
+<br>
 
 
 ---
