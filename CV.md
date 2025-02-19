@@ -17,16 +17,19 @@ subtitle: Download or view my latest CV.
 
 
 
-<div align='center'>
+
+<div style="text-align: center; margin-bottom: 20px;">
 
 # Sayed Gamal  
 
 
-📍 Cairo, Egypt | 📞 +201093521404 | ✉️ [sayedgamall@outlook.com](mailto:sayedgamall@outlook.com)  
+Cairo, Egypt | 📞 +201093521404 | ✉️ [sayedgamall@outlook.com](mailto:sayedgamall@outlook.com)  
 🔗 [LinkedIn](https://linkedin.com/in/sayed-gamall) | 🖥️ [GitHub](https://github.com/sayedgamal99)  
 
 
 </div>
+
+
 
 ---
 
@@ -38,7 +41,7 @@ subtitle: Download or view my latest CV.
 
 ---
 
-## 🔬 Projects  
+## Projects  
 
 ### **Flare Guard: Real-Time Smoke-Fire Detection with YOLO11** ([GitHub](https://github.com/sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11))  
 - Fine-tuned a YOLO11 model on a RoboFlow smoke-fire dataset, achieving mAP@50 of 0.77.  
@@ -65,7 +68,7 @@ subtitle: Download or view my latest CV.
 
 ---
 
-## 💼 Experience  
+## Experience  
 
 ### **Machine Learning Internship** | *Cellula Technologies (Jun 2024 – Aug 2024, Remote)*  
 - Conducted EDA for feature selection, visualizing insights with Matplotlib and Seaborn.  
@@ -76,7 +79,7 @@ subtitle: Download or view my latest CV.
 
 ---
 
-## 📚 Courses  
+## Courses  
 
 - **Deep Learning Specialization** | DeepLearning.AI  
 - **Machine Learning Specialization** | Stanford University & DeepLearning.AI  
@@ -86,7 +89,7 @@ subtitle: Download or view my latest CV.
 
 ---
 
-## 🎭 Student Activities  
+## Student Activities  
 
 ### **Head of Public Relations & Fundraising** | *STARKS MU (Oct 2023 – Sep 2024)*  
 - Led a team to enhance the student activity’s public image at Mansoura University.  
@@ -116,7 +119,7 @@ subtitle: Download or view my latest CV.
 
 ---
 
-## 🌍 Languages  
+## Languages  
 
 - **Arabic:** Native  
 - **English:** Professional working proficiency  
